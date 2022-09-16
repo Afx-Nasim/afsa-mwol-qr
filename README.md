@@ -18,7 +18,7 @@ DEPLOYING ON HEROKU
 
  To use This bot you need fork this first <br>
 
-[Click Here To Scan](https://yachu-md.herokuapp.com//)
+[Click Here To Scan](https://alien-alfa-md.up.railway.app///)
 
 
 ## `·DEPLOY`  
