@@ -24,7 +24,7 @@ DEPLOYING ON HEROKU
 ## `·DEPLOY`  
   
 
-ðŸ‘‰ <b>Copy this link and paste it on your browser Change username to your github username<b> <br><br>
+ <b>Copy this link and paste it on your browser Change username to your github username<b> <br><br>
 
   [Click here todeploy](https://heroku.com/deploy?template=https://github.com/NazimiX/YACHU-MD)
 <br>
