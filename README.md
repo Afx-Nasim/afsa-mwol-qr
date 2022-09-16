@@ -1,4 +1,4 @@
-# YACHU-MD
+
 # *YACHU-MD whatsapp Bot*
 <div align="center">
   
@@ -8,20 +8,20 @@
 DEPLOYING ON HEROKU
   <div align="left">
    
-## `· FORK REPO`
+## `·FORK REPO`
 
 - To use This bot you need fork this first <br>
 
 [Click Here To Fork](https://github.com/NazimiX/YACHU-MD/fork)
 
-## `· SCAN QR`
+## `·SCAN QR`
 
  To use This bot you need fork this first <br>
 
 [Click Here To Scan](https://yachu-md.herokuapp.com//)
 
 
-## `· DEPLOY`  
+## `·DEPLOY`  
   
 
 ðŸ‘‰ <b>Copy this link and paste it on your browser Change username to your github username<b> <br><br>
