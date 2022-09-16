@@ -8,20 +8,20 @@
 DEPLOYING ON HEROKU
   <div align="left">
    
-## `â¨· FORK REPO`
+## `· FORK REPO`
 
 - To use This bot you need fork this first <br>
 
 [Click Here To Fork](https://github.com/NazimiX/YACHU-MD/fork)
 
-## `â¨· SCAN QR`
+## `· SCAN QR`
 
  To use This bot you need fork this first <br>
 
 [Click Here To Scan](https://yachu-md.herokuapp.com//)
 
 
-## `â¨· DEPLOY`  
+## `· DEPLOY`  
   
 
 ðŸ‘‰ <b>Copy this link and paste it on your browser Change username to your github username<b> <br><br>
